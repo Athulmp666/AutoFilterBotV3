@@ -22,6 +22,10 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DalinMathew/AutoFilterBotV3)
 
+#### Deploy To Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FAthulmp666%2FAutoFilterBotV3&envs=ADMIN_ID%2CADMINS%2CAPI_HASH%2CAPI_ID%2CAUTH_GROUPS%2CAUTH_USERS%2CBOT_NAME%2CBOT_TOKEN%2CBROADCAST%2CBROADCAST_CHANNEL%2CCACHE_TIME%2CCHANNELS%2CCOLLECTION_NAME%2CCUSTOM_FILE_CAPTION%2CDATABASE_1%2CDATABASE_2%2CFORCES_SUB%2COMDB_API_KEY%2CSTART_MSG%2CUSE_CAPTION_FILTER&optionalEnvs=AUTH_GROUPS%2CAUTH_USERS%2CBROADCAST%2CCACHE_TIME%2CCOLLECTION_NAME%2CCUSTOM_FILE_CAPTION%2CFORCES_SUB%2COMDB_API_KEY%2CSTART_MSG%2CUSE_CAPTION_FILTER&BOT_NAMEDefault=LuciferMoringstar_Robot&BROADCASTDefault=True&CACHE_TIMEDefault=300&OMDB_API_KEYDefault=ad0c092b&START_MSGDefault=**Hi%2C+I%27m+Autofilter+Bot+With+Greater+Abilities+Me+Only+Works+In+%40MoviePlex_TG+Here+%F0%9F%A5%B2&referralCode=AthulMP)
+
 #### Hard Way
 ```bash
 # Create virtual environment
